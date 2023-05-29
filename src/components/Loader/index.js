@@ -5,10 +5,10 @@ const Loader = () => {
   return (
     <Container>
       <Message icon size="big">
-        <Icon name="circle notched" loading />
+        <Icon name="circle notched" Loading... />
         <Message.Content>
           <Message.Header>Just one second</Message.Header>
-          We are fetching that content for you.
+          Questions coming right up!
         </Message.Content>
       </Message>
     </Container>
